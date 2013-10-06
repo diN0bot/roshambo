@@ -1,0 +1,38 @@
+body, table {
+  text-align: center;
+  margin: auto;
+}
+
+table td {
+  text-align: right;
+  padding: 0em 1em;
+}
+table .value {
+  text-align: center;
+}
+
+#score {
+  clear: both;
+  padding: 3em;
+  margin-bottom: 3em;
+}
+
+#playingfield {
+}
+
+#playingfield .choice {
+  display: inline;
+  padding: 3em;
+}
+#rock {
+}
+#paper {
+}
+#scissors {
+}
+
+#outcome {
+  clear: both;
+  padding: 3em;
+  margin-top: 3em;
+}
